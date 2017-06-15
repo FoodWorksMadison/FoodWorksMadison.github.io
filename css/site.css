@@ -358,17 +358,17 @@ header.masthead {
   background-color: #207935;
   color: #bfbfbf; }
 
-#kickstarter a {
-  color: #98a1e7; }
-
 #kslogo {
   max-width: 60%; }
 
-#photos {
-  display: none; }
-
 #contact a {
   color: white; }
+
+#about a {
+  color: #99a2e7; }
+
+#kickstarter a {
+  color: #b9e991; }
 
 #contact .section-heading,
 #kickstarter .section-heading {
@@ -378,3 +378,7 @@ header.masthead {
   color: white;
   font-size: 42px;
   margin-top: 30px; }
+
+.mfp-img-mobile {
+  max-width: 90%;
+  max-height: 90%; }
