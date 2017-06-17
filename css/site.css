@@ -354,7 +354,7 @@ header.masthead {
     to {
       background-image: filter(url(../img/bg_knife.v.jpg), blur(0px)); } } }
 
-#kickstarter {
+#press {
   background-color: #207935;
   color: #bfbfbf; }
 
@@ -367,11 +367,11 @@ header.masthead {
 #about a {
   color: #99a2e7; }
 
-#kickstarter a {
+#press a {
   color: #b9e991; }
 
 #contact .section-heading,
-#kickstarter .section-heading {
+#press .section-heading {
   margin-bottom: 1em; }
 
 #morebutton {
