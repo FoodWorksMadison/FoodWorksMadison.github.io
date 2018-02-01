@@ -358,6 +358,10 @@ header.masthead {
   background-color: #207935;
   color: #bfbfbf; }
 
+#paypal {
+  margin-bottom: 2em;
+}
+
 #kslogo {
   max-width: 60%; }
 
